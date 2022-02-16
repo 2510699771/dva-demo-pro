@@ -1,2 +1,8 @@
 {
+    "extraBabelPlugins": [
+        ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": true }]
+    ],
+    "theme": {
+        "primary-color": "#123456"
+    }
 }
